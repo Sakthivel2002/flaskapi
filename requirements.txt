@@ -2,3 +2,4 @@ Flask
 PyMuPDF
 openai
 gunicorn
+nltk
