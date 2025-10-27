@@ -3,3 +3,6 @@ PyMuPDF
 openai
 gunicorn
 nltk
+torch==2.6.0+cu124
+
+
